@@ -1,11 +1,7 @@
-def check_number(num):
-    if num % 2 == 0:
-        print(f"{num} is an Even number.")
-    else:
-        print(f"{num} is an Odd number.")
+COMPUTER FUNDAMENTALS AND PROGRAMMING 
 
-try:
-    user_input = int(input("Enter a number: "))
-    check_number(user_input)
-except ValueError:
-    print("Invalid input! Please enter an integer.")
+ACTIVITY LABORATORY 3 
+
+GDRIVE:https://drive.google.com/file/d/11Xx-2W90mIb9f_kQmQzRqFQqifrJCMe_/view?usp=drivesdk
+
+GITHUB:https://github.com/lawrencedave0000/Dictionary/edit/main/Act%20Lab%203
