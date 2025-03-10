@@ -4,4 +4,4 @@ ACTIVITY LABORATORY 3
 
 GDRIVE:https://drive.google.com/file/d/11Xx-2W90mIb9f_kQmQzRqFQqifrJCMe_/view?usp=drivesdk
 
-GITHUB:
+GITHUB:https://github.com/lawrencedave0000/Dictionary/blob/main/Act%20Lab%203
