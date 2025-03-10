@@ -1,6 +1,7 @@
-# Dictionary
-This is a dictionary. A dictionary that is created using an application named PYDROID 3. This dictionary contains data that I gathered using the Handout #1 of Computer Fundamentals and Programming.
+COMPUTER FUNDAMENTALS AND PROGRAMMING 
 
-YouTube Link: https://youtube.com/shorts/Obs80J-822A?si=zqOXqXx3SO7r2xeW
+ACTIVITY LABORATORY 3 
 
-Github Link: https://github.com/lawrencedave0000
+GDRIVE:https://drive.google.com/file/d/11Xx-2W90mIb9f_kQmQzRqFQqifrJCMe_/view?usp=drivesdk
+
+GITHUB:
